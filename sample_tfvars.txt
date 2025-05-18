@@ -1,0 +1,9 @@
+# Sample terraform.tfvars file
+# Rename to terraform.tfvars and update with your values
+
+# Required variables
+instance_name = "myinstance"
+instance_zone = "us-central1-a"
+
+# Optional variables (already have defaults in variables.tf)
+# instance_type = "e2-standard-2"

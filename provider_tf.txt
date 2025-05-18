@@ -1,0 +1,5 @@
+provider "google" {
+  project = "PROJECT_ID"  # Replace with your actual GCP project ID
+  region  = "REGION"      # Replace with your preferred region
+  zone    = "ZONE"        # Replace with your preferred zone
+}
